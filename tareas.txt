@@ -1,1 +1,3 @@
-Tarea 1: pendiente
+Tarea 1: done
+Tarea 2: pendiente
+Tarea 3: en progreso
